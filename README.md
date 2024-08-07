@@ -1,4 +1,6 @@
-## Hi there 👋
+<img hidth="47%" align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=h17lima&show_icons=true&theme=yeblu" />
+<img hidth="47%" align="left" alt="top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h17lima&layout=compact&theme=yeblu" />
+
 
 <!--
 **h17lima/H17lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
